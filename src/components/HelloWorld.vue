@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Para você que gostaria de trabalhar com Desenvolvimento<br>
-      Não sabe por onde começar? Acesse
+      Para você que gostaria de trabalhar com Programação, e não sabe por onde começar?<br>
+      Acesse
       <a href="https://github.com/programacaoempar" target="_blank" rel="noopener">programacaoempar</a>
     </p>
   </div>
